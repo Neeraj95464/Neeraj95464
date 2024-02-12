@@ -20,7 +20,7 @@ I'm Neeraj Kumar, a passionate computer science and engineering graduate from In
 
 📫 Let's connect and explore possibilities:
 
-- GitHub: [github.com/yourusername](https://github.com/neeraj95464)
+- GitHub: https://github.com/neeraj95464
 - LinkedIn: www.linkedin.com/in/neeraj-kumar-10bbb8284updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7158812448257458176%29)
 
 Excited for the next chapter in my journey! 🚀

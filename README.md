@@ -1,32 +1,19 @@
-# Greetings! 👋
+Greetings! 👋(I am happy to see you here !!!)
 
-I'm Neeraj Kumar, a passionate computer science and engineering graduate from India. 🎓🇮🇳
+Neeraj Kumar
 
-## About Me
+Welcome to my GitHub profile!
 
-💻 Recently completed my diploma in computer science and engineering.
+About Me
 
-🚀 Eager to apply my skills in real-world projects and continue learning.
+I'm Neeraj Kumar, a passionate Full stack java developer. I enjoy solving problems, learning new technologies, and exploring the world of software development. My goal is to contribute to meaningful projects and make a positive impact in the tech community.
 
-🌐 Interested in exploring new opportunities and contributing to the tech community.
+Skills
 
-## Tech Stack
+Programming Languages: Java, Python, SQL,java script
+Technologies: Spring Boot, Maven, Git
+Interests: Software development, Data Visulation with python,SQL
 
-🔧 Proficient in: Java, Python, Android developer, software development..
-
-🔍 Exploring: Data Structures, and Algorithms.
-
-## Connect with Me
-
-📫 Let's connect and explore possibilities:
-
-- GitHub: https://github.com/neeraj95464
-- LinkedIn: www.linkedin.com/in/neeraj-kumar-10bbb8284updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7158812448257458176%29)
-
-Excited for the next chapter in my journey! 🚀
-
-
-<!---
-Neeraj95464/Neeraj95464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects
+Here are some of the projects I've worked on:
+Let's connect and collaborate on exciting projects together!

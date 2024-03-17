@@ -1,10 +1,4 @@
-Greetings! 👋(I am happy to see you here !!!)
-
-Neeraj Kumar
-
-Welcome to my GitHub profile!
-
-About Me
+Greetings! 👋(Feeling happy to see you here !!!)
 
 I'm Neeraj Kumar, a passionate Full stack java developer. I enjoy solving problems, learning new technologies, and exploring the world of software development. My goal is to contribute to meaningful projects and make a positive impact in the tech community.
 
